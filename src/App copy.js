@@ -27,8 +27,6 @@ const App = () => {
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>{2 + 2}</p>
-        <a className="App-link" href='https://d.furaffinity.net/art/maefeline/1631375951/1631299748.maefeline_phelix_ref.png'>Click for cringe</a>
-        <a className="App-link" href='https://d.furaffinity.net/art/maefeline/1643916932/1643916932.maefeline_phelix_icon.jpg'>Click for more cringe</a>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer"> Learn React</a>
       </header> */}
 
